@@ -1,4 +1,4 @@
-﻿# CardioVision 3D
+# CardioVision 3D
 
 ### AI-Powered Cardiovascular Disease Prediction, Explainability & 3D Visualization Platform
 
@@ -219,7 +219,7 @@ Make sure the following tools are installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/deepali-kumari-iitp/CardioVision3D.git
 cd CardioVision3D
 ```
 

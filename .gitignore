@@ -58,7 +58,6 @@ dist/
 README.backup.md
 
 # Patient-level sample data
-frontend/public/sample-patient.json
 
 # Local notebook backups
 notebooks_backup/

@@ -1,0 +1,64 @@
+﻿# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node dependencies
+node_modules/
+
+# Frontend build
+frontend/dist/
+
+# Logs
+*.log
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+
+# Raw datasets - keep local, do not push
+dataset/raw/*
+!dataset/raw/README.md
+
+# Model artifacts - keep only the final CAD pipeline
+*.pkl
+!ml/models/final_cad_pipeline.pkl
+
+# Generated Python artifacts
+*.egg-info/
+build/
+dist/
+
+# Local README backup
+README.backup.md
+
+# Patient-level sample data
+frontend/public/sample-patient.json
+
+# Local notebook backups
+notebooks_backup/

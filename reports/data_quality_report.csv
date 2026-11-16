@@ -1,0 +1,6 @@
+Column,Issue,Observation,Decision
+Sex,Possible spelling inconsistency,"Male = 176, Fmale = 127",Verify before correction
+Exertional CP,Constant column,All 303 records contain N,Consider excluding from model features
+Function Class,Coded ordinal variable,"Values: 0, 1, 2, 3",Investigate category meaning
+Region RWMA,Coded variable,"Values: 0, 1, 2, 3, 4",Investigate category meaning
+Numerical Features,Potential outliers,IQR method identified unusual observations,Investigate before cleaning

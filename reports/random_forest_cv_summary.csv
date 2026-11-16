@@ -1,0 +1,2 @@
+Model,CV Folds,Mean CV Accuracy,CV Standard Deviation
+Random Forest,5,0.8846088435374149,0.034916378359125644

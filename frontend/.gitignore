@@ -1,0 +1,38 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+
+# Raw datasets - keep local, do not push
+dataset/raw/*
+!dataset/raw/README.md
+
+# Model artifacts - keep only the final pipeline
+*.pkl
+!ml/models/final_cad_pipeline.pkl
+
+# Generated Python artifacts
+*.egg-info/
+build/
+dist/

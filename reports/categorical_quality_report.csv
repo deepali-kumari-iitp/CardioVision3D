@@ -1,0 +1,22 @@
+Column,Unique Categories,Rare Categories (<5%),Constant Column
+Sex,2,[],False
+Obesity,2,[],False
+CRF,2,['Y'],False
+CVA,2,['Y'],False
+Airway disease,2,['Y'],False
+Thyroid Disease,2,['Y'],False
+CHF,2,['Y'],False
+DLP,2,[],False
+Weak Peripheral Pulse,2,['Y'],False
+Lung rales,2,['Y'],False
+Systolic Murmur,2,[],False
+Diastolic Murmur,2,['Y'],False
+Dyspnea,2,[],False
+Atypical,2,[],False
+Nonanginal,2,[],False
+Exertional CP,1,[],True
+LowTH Ang,2,['Y'],False
+LVH,2,[],False
+Poor R Progression,2,['Y'],False
+BBB,3,"['LBBB', 'RBBB']",False
+VHD,4,['Severe'],False

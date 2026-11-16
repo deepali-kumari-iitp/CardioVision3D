@@ -1,0 +1,10 @@
+fastapi==0.162.7
+uvicorn==0.54.0
+pydantic-settings==2.16.3
+sqlalchemy==2.1.8
+psycopg[binary]==3.3.9
+python-multipart==0.0.33
+numpy==2.4.6
+pandas==3.1.1
+scikit-learn==1.9.1
+joblib==1.6.0

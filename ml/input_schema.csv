@@ -1,0 +1,55 @@
+position,feature_name
+1,Age
+2,Weight
+3,Length
+4,Sex
+5,BMI
+6,DM
+7,HTN
+8,Current Smoker
+9,EX-Smoker
+10,FH
+11,Obesity
+12,CRF
+13,CVA
+14,Airway disease
+15,Thyroid Disease
+16,CHF
+17,DLP
+18,BP
+19,PR
+20,Edema
+21,Weak Peripheral Pulse
+22,Lung rales
+23,Systolic Murmur
+24,Diastolic Murmur
+25,Typical Chest Pain
+26,Dyspnea
+27,Function Class
+28,Atypical
+29,Nonanginal
+30,LowTH Ang
+31,Q Wave
+32,St Elevation
+33,St Depression
+34,Tinversion
+35,LVH
+36,Poor R Progression
+37,BBB
+38,FBS
+39,CR
+40,TG
+41,LDL
+42,HDL
+43,BUN
+44,ESR
+45,HB
+46,K
+47,Na
+48,WBC
+49,Lymph
+50,Neut
+51,PLT
+52,EF-TTE
+53,Region RWMA
+54,VHD

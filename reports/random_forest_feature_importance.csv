@@ -1,0 +1,78 @@
+Feature,Importance
+binary__Typical Chest Pain,0.12267129764028388
+continuous__Age,0.08208099607321509
+categorical__Atypical_N,0.04854336678553914
+ordinal__Region RWMA,0.04801578702783939
+categorical__Atypical_Y,0.0465101766778568
+continuous__EF-TTE,0.03910335926711761
+continuous__FBS,0.03597546150530983
+continuous__BMI,0.0357139545654451
+continuous__BP,0.030783185486027088
+continuous__ESR,0.027826054975854757
+continuous__Weight,0.02660961412316907
+continuous__TG,0.025862599770884506
+continuous__PLT,0.025720316907860485
+continuous__CR,0.0233569279901217
+binary__HTN,0.022459522009914835
+continuous__Lymph,0.021198097130846513
+continuous__Na,0.02019924360831758
+continuous__Length,0.02006148805383766
+continuous__Neut,0.019900558567269716
+continuous__K,0.01967648430714811
+continuous__WBC,0.019666400190864696
+continuous__HB,0.01870503597240555
+continuous__LDL,0.017368658423676457
+continuous__HDL,0.01692294479415692
+binary__Tinversion,0.01626446072710966
+continuous__BUN,0.014535337707935286
+binary__DM,0.013346718327971806
+categorical__Dyspnea_Y,0.012796310497958567
+continuous__PR,0.01257766980656839
+categorical__Nonanginal_N,0.009272911652822489
+categorical__VHD_Severe,0.0082571897970942
+categorical__Dyspnea_N,0.007708420925978956
+categorical__Nonanginal_Y,0.007085849247764456
+binary__St Depression,0.005005272301563375
+binary__FH,0.0046350039627545934
+categorical__VHD_mild,0.00428822493192853
+categorical__DLP_Y,0.004006668857456725
+binary__Q Wave,0.00392393392289085
+categorical__VHD_N,0.003911492096620442
+categorical__DLP_N,0.003819138212408366
+categorical__Sex_Male,0.003535463110545896
+ordinal__Function Class,0.0035029932847176187
+categorical__BBB_N,0.003420718287702944
+binary__Current Smoker,0.0032160405128071616
+categorical__Sex_Fmale,0.0029908065414050995
+categorical__Obesity_Y,0.002933925720693549
+categorical__BBB_LBBB,0.0027621953037679937
+categorical__Obesity_N,0.0023641563508251364
+categorical__Diastolic Murmur_Y,0.0023328836252681094
+categorical__Systolic Murmur_N,0.002193246665699033
+categorical__Systolic Murmur_Y,0.0021149482489762218
+binary__St Elevation,0.001906080928402642
+binary__Edema,0.0018550841014747502
+categorical__LVH_Y,0.0017365416306085893
+binary__EX-Smoker,0.0015293564611232543
+categorical__VHD_Moderate,0.0014957550605276247
+categorical__BBB_RBBB,0.0013378775606354106
+categorical__CVA_N,0.0013170901745450164
+categorical__Poor R Progression_Y,0.0013103645962509872
+categorical__Poor R Progression_N,0.0012537479248138012
+categorical__LVH_N,0.00125366648261552
+categorical__Lung rales_Y,0.0010738001111989153
+categorical__Thyroid Disease_Y,0.0009647170909430376
+categorical__Lung rales_N,0.0009383125824625371
+categorical__Diastolic Murmur_N,0.0007498031765371245
+categorical__CRF_Y,0.0006506087857153348
+categorical__CVA_Y,0.0006194495196348867
+categorical__Airway disease_Y,0.0005338212100379862
+categorical__Airway disease_N,0.0004587324823662809
+categorical__LowTH Ang_Y,0.00040279298521799287
+categorical__Thyroid Disease_N,0.00034869801936380514
+categorical__Weak Peripheral Pulse_N,0.00020849681172136356
+categorical__CRF_N,0.00018643698015660147
+categorical__CHF_N,7.313661726285917e-05
+categorical__LowTH Ang_N,5.567638103523263e-05
+categorical__Weak Peripheral Pulse_Y,6.439841150584972e-06
+categorical__CHF_Y,0.0
